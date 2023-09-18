@@ -1,4 +1,4 @@
-# rps-backend
+# rps-backend [![Build Status](https://github.com/based-zrt/rps-backend/actions/workflows/build.yml/badge.svg)](https://github.com/based-zrt/rps-backend/actions/workflows/build.yml)
 
 A funny microservice for playing *rock-paper-scissors*.
 
