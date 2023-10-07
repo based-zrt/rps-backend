@@ -5,6 +5,7 @@ COPY go.mod ./
 COPY go.sum ./
 COPY *.go ./
 
+ENV GOPROXY direct
 RUN go build -o /rps-backend
 
 FROM alpine:latest as runner
